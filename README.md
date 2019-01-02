@@ -24,7 +24,7 @@ Parsing is done through the `gen_csv_file.py` Python 3 script. It basically cons
 
 ## Data visualization
 
-Since a very simple visualization analysis was targeted, this output file was imported to [Google MyMaps](mymaps.google.com), which allows a list of coordinates to be imported for simple visualization. Due to the Google MyMaps limitation at 2000 lines per coordinate file, the current information was split into `output_2016_01-06A.csv` and `output_2016_01-06B.csv` files.
+Since a very simple visualization analysis was targeted, this output file was imported to [Google MyMaps](https://mymaps.google.com), which allows a list of coordinates to be imported for simple visualization. Due to the Google MyMaps limitation at 2000 lines per coordinate file, the current information was split into `output_2016_01-06A.csv` and `output_2016_01-06B.csv` files.
 
 The final map can be seen [here](https://drive.google.com/open?id=18uPc42bwOYwHDRKKpV9STvj4KWE&usp=sharing), as examplified in the following image:
 
