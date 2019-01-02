@@ -4,7 +4,7 @@ This short project aims at visualizing the spatial distribution of vehicle robbe
 
 ## Data extraction
 
-The public data information can be found [here](http://www.ssp.sp.gov.br/transparenciassp/Consulta.aspx), at the Data Transparency website of São Paulo state Public Security Bureau. The data used in this study can be reproduced by exporting *"furto de veículo"* (vehicle theft) and *"roubo de veículo"* (vehicle robbery). The department considered was *"DEINTER 1 - SAO JOSE DOS CAMPOS"*.
+The public data information can be found [here](http://www.ssp.sp.gov.br/transparenciassp/Consulta.aspx), at the Data Transparency website of São Paulo state Public Security Bureau (*Secretaria de Segurança Pública - São Paulo*). The data used in this study can be reproduced by exporting *"furto de veículo"* (vehicle theft) and *"roubo de veículo"* (vehicle robbery). The department considered was *"DEINTER 1 - SAO JOSE DOS CAMPOS"*.
 
 Data could be scrapped automatically using a scrapper tool such as Selenium (working directly with a tool such as BeautifulSoup would not work because the website is written in JavaScript), however it was decided to manually download the data for each month, due to the short time span considered.
 
