@@ -28,4 +28,4 @@ Since a very simple visualization was targeted, this output file was imported to
 
 The final map can be seen [here](https://drive.google.com/open?id=18uPc42bwOYwHDRKKpV9STvj4KWE&usp=sharing), as examplified in the following image:
 
-<iframe src="https://www.google.com/maps/d/u/0/embed?mid=18uPc42bwOYwHDRKKpV9STvj4KWE" width="640" height="480"></iframe>
+![Google MyMaps view](image.png)
