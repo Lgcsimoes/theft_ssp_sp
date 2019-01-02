@@ -1,6 +1,6 @@
 # Visualization of vehicle robbery and theft in part of São Paulo state, Brazil
 
-This project aims at visualizing the spatial distribution of vehicle robbery and theft in the Vale do Paraiba region of São Paulo state, Brazil. Only events occured between January and June 2016 will be considered, however the methodology can be easily extended to any other date range or location in São Paulo state. Public government data is used in this project, data parsing is done by Python and visualization is made through Google MyMaps. The event location address is converted to latitude/longitude information (geotagging) using the Google Maps API.
+This short project aims at visualizing the spatial distribution of vehicle robbery and theft in the Vale do Paraiba region of São Paulo state, Brazil. Only events occured between January and June 2016 will be considered, however the methodology can be easily extended to any other date range or location in São Paulo state. Public government data is used in this project, data parsing is done by Python and visualization is made through Google MyMaps. The event location address is converted to latitude/longitude information (geotagging) using the Google Maps API.
 
 ## Data extraction
 
